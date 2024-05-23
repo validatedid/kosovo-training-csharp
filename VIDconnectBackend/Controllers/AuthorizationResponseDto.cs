@@ -1,0 +1,3 @@
+namespace VIDconnectBackend.Controllers;
+
+public record AuthorizationResponseDto(object verifiableCredential);
